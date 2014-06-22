@@ -1,7 +1,7 @@
 {
   "name": "symphony-http",
-  "version": "0.1.0",
-  "description": "A rest http module.",
+  "version": "0.3.0",
+  "description": "A http module.",
   "main": "./src/main.js",
   "engineStrict": true,
   "directories": {
@@ -36,7 +36,7 @@
     "url": "https://github.com/MattiasFestin/symphony-http.git"
   },
   "keywords": [
-    "http rest"
+    "http"
   ],
   "author": "Mattias Festin",
   "license": "MIT"
